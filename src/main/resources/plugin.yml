@@ -1,0 +1,9 @@
+name: CaptureTheFlag
+version: '1.0-SNAPSHOT'
+main: com.violetsmc.captureTheFlag.CaptureTheFlag
+api-version: '1.21'
+commands:
+  startCTF:
+    description: Start the Capture the Flag game
+  endCTF:
+    description: End the Capture the Flag game
